@@ -32,21 +32,21 @@ const SOCIAL_CARDS = {
         {
             title: "Main TikTok",
             description: "Lyna posts her main content here. The account is private, but follow requests are accepted.",
-            url: "https://tiktok.com/theLxna_playz",
+            url: "https://tiktok.com/@theLxna_playz",
             iconClass: "fab fa-tiktok",
             actionLabel: "Follow on TikTok"
         },
         {
             title: "VRC TikTok",
             description: "A public profile focused on VRChat clips, stream moments, and event highlights.",
-            url: "https://tiktok.com/theLxna_playz",
+            url: "https://tiktok.com/@LxnaPlayz_VRC",
             iconClass: "fab fa-tiktok",
             actionLabel: "Follow on TikTok"
         },
         {
             title: "VRC Family TikTok",
             description: "A profile focused on VRChat family, friends, and community collaborations.",
-            url: "https://tiktok.com/LxnaPlayz_VRC",
+            url: "https://tiktok.com/@Familie.fluff",
             iconClass: "fab fa-tiktok",
             actionLabel: "Follow on TikTok"
         },
